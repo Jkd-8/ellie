@@ -1,0 +1,64 @@
+
+.titulo-principal{
+    padding-left: 30%;
+    text-align: center;
+    color: darkviolet;
+
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+#banner{
+    width: 100%;
+
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+.lista{
+    background-color: hotpink;
+    padding: 35px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display:inline-block
+    vertical-align: top;
+    width: 100%;
+   
+}
+
+
+body{
+    background-color: hotpink;
+
+}
+
+.imagenvariante{
+    width: 33%;
+   
+}
+
+.herscher{
+    width: 33%;
+
+}
+
+.corrupcion{
+    width: 33%;
+
+}
+
+#Presentacion{
+
+    font-size: 22;
+    padding: 35px;
+
+}
